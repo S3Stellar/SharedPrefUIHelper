@@ -9,7 +9,7 @@
 	  <a href="https://github.com/S3Stellar">Naor Farag</a></p>
 </div>
 
-![Farmers Market Finder Demo](demo/80sss.jpg)
+![Demo](demo/demo.jpg)
 
 ## 💻 Installation
 Add this in your app's build.gradle file (Project & module):
