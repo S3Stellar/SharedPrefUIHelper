@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My SharedPreference</string>
+    <string name="clear">CLEAR</string>
+    <string name="add">Add</string>
+    <string name="sort">SORT</string>
+    <string name="value">Value</string>
+    <string name="key">Key</string>
+
+    <string-array name="mutableTypes">
+        <item>Int</item>
+        <item>Float</item>
+        <item>Long</item>
+        <item>String</item>
+        <item>Boolean</item>
+    </string-array>
+
+</resources>

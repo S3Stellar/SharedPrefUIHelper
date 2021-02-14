@@ -1,0 +1,3 @@
+include ':mysharedprefui'
+include ':app'
+rootProject.name = "sharedprefui"
