@@ -36,8 +36,7 @@ Two methods to use this library:
 1) extend from 'MySharedPrefActivity' 
 
 ```java
- 	public class MainActivity extends MySharedPrefActivity {
-
+ public class MainActivity extends MySharedPrefActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -47,8 +46,8 @@ Two methods to use this library:
 ```
 2)  Use Intent with startActivity
 ```java
-	    public class MainActivity extends AppCompatActivity {
 
+public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -59,7 +58,7 @@ Two methods to use this library:
 ```
 And add the activity to the manifest:
 ```css
-	    <activity android:name="com.example.mysharedprefui.MySharedPrefActivity" />
+	<activity android:name="com.example.mysharedprefui.MySharedPrefActivity" />
 ```
 
 
